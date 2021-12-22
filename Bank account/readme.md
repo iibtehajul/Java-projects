@@ -1,4 +1,4 @@
-This is a simulation of a regular bank account. A user can have a checking and/or a savings bank account(s). 
+This is a simulation of a regular bank account. A user can have a checking and/or a savings account(s). 
 
 The accounts can:
 1. Depost money
